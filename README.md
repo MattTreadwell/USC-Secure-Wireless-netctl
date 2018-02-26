@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://www.calm.com/images/college_page/college_logos/usc.png" width="50%">
-  </p>
+</p>
+
 # USC Secure Wireless netctl config
+
 This netctl config file is for connecting to USC Secure Wifi network via netctl
 
 ## Setup
