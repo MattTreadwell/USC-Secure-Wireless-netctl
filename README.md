@@ -1,2 +1,4 @@
-# USC-Secure-Wireless-netctl
-Netctl config file for connecting to USC Secure Wifi network
+# USC Secure Wireless netctl config
+This netctl config file is for connecting to USC Secure Wifi network
+
+#
