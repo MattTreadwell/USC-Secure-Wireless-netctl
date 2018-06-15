@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.calm.com/images/college_page/college_logos/usc.png" width="50%">
+  <img src="https://assets-www.calm.com/2e77697f538befb44e5e9a40f5775d2a.png" width="50%">
 </p>
 
 # USC Secure Wireless netctl config
