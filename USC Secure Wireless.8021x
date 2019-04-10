@@ -1,0 +1,9 @@
+[Security]
+EAP-Method=PEAP
+EAP-Identity=anonymous
+EAP-PEAP-Phase2-Method=MSCHAPV2
+EAP-PEAP-Phase2-Identity=YOUR-USC-USERNAME
+EAP-PEAP-Phase2-Password=YOUR-USC-PASSWORD
+
+[Settings]
+Autoconnect=true
